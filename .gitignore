@@ -1,0 +1,70 @@
+# ========================================
+# CTrackAI — Production .gitignore
+# ========================================
+
+# ── Python & Environments ────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# ── Database & Data Lakes (Do not commit sensitive data) ─
+data/
+*.db
+*.sqlite3
+*.sqlite
+logs/
+*.log
+
+# ── Docker ───────────────────────────────────────────────
+.docker/
+docker-compose.override.yml
+
+# ── Environment Variables (CRITICAL) ─────────────────────
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# ── ML Models & Artifacts ────────────────────────────────
+mlruns/
+*.pkl
+*.h5
+*.hdf5
+*.onnx
+*.pt
+*.pth
+.chroma/
+
+# ── IDEs & Tools ─────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+.macos
+.gemini/
+
+# ── Testing & Coverage ───────────────────────────────────
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+.tox/
+nosetests.xml
+coverage.xml
+
+# ── Project specific ─────────────────────────────────────
+# Keep the seed data (needed for first run)
+!rag/device_seed_data.json

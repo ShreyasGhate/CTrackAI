@@ -1,0 +1,40 @@
+# ========================================
+# CTrackAI — Docker Compose (Production)
+# ========================================
+#
+# Usage:
+#   docker compose up --build        (build + start)
+#   docker compose up -d             (detached mode)
+#   docker compose logs -f ctrackai  (tail logs)
+#   docker compose down              (stop + remove)
+
+services:
+  ctrackai:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ctrackai-api
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persist data across container restarts
+      - ctrackai-data:/app/data
+      - ctrackai-logs:/app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+      - EMISSION_FACTOR=0.727
+      - REGION=maharashtra
+      - MQTT_ENABLED=false
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      start_period: 60s
+      retries: 3
+
+volumes:
+  ctrackai-data:
+    driver: local
+  ctrackai-logs:
+    driver: local

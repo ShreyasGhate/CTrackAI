@@ -1,0 +1,63 @@
+# ========================================
+# CTrackAI - AI Model Service Dependencies
+# ========================================
+
+# --- API & Serving ---
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+gunicorn==23.0.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# --- Data Processing ---
+pandas==2.2.3
+numpy==1.26.4
+
+# --- Carbon Math ---
+codecarbon==2.8.3
+
+# --- Context Engine ---
+holidays==0.63
+
+# --- Anomaly Detection ---
+scikit-learn==1.6.1
+pyod==2.0.4
+
+# --- Autoencoder ---
+# torch installed as CPU-only in Dockerfile (same functionality, no CUDA bloat)
+# torch==2.5.1
+# torchvision==0.20.1
+
+# --- Explanation Generator ---
+shap==0.46.0
+
+# --- Forecasting ---
+prophet==1.1.6
+statsmodels==0.14.4
+
+# --- RAG Layer (LangChain + ChromaDB) ---
+langchain==0.3.18
+langchain-community==0.3.17
+langchain-chroma==0.2.2
+langchain-huggingface==0.1.2
+chromadb==0.6.3
+sentence-transformers==3.4.1
+
+# --- Logging & Traceability ---
+loguru==0.7.3
+
+# --- MQTT Support ---
+paho-mqtt==2.1.0
+
+# --- ML Tracking ---
+mlflow==2.19.0
+
+# --- Testing ---
+pytest==8.3.4
+httpx
+
+# --- Anomaly Thresholds ---
+dtaianomaly==0.5.1
+
+pmdarima==2.0.4

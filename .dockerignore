@@ -1,0 +1,41 @@
+# ── Git / VCS ─────────────────────────────────────
+.git
+.gitignore
+.github
+
+# ── Python artifacts ──────────────────────────────
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+dist
+build
+*.egg
+.mypy_cache
+.pytest_cache
+
+# ── Virtual environment ───────────────────────────
+venv
+.venv
+env
+
+# ── IDE ───────────────────────────────────────────
+.vscode
+.idea
+*.swp
+*.swo
+.gemini
+
+# ── Data (will be mounted as volumes) ─────────────
+data/
+logs/
+mlruns/
+
+# ── Docker ────────────────────────────────────────
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# ── Docs ──────────────────────────────────────────
+*.md
+LICENSE

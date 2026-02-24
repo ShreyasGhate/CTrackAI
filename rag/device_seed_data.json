@@ -1,0 +1,1082 @@
+[
+  {
+    "device_name": "HP LaserJet Pro M404dn",
+    "category": "printer",
+    "rated_wattage": 650,
+    "idle_wattage": 3.6,
+    "typical_wattage": 550,
+    "duty_cycle": 0.15,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "HP LaserJet Pro MFP M428fdw",
+    "category": "printer",
+    "rated_wattage": 700,
+    "idle_wattage": 5.2,
+    "typical_wattage": 580,
+    "duty_cycle": 0.12,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Canon imageCLASS MF445dw",
+    "category": "printer",
+    "rated_wattage": 560,
+    "idle_wattage": 1.4,
+    "typical_wattage": 480,
+    "duty_cycle": 0.10,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Epson EcoTank L3250",
+    "category": "printer",
+    "rated_wattage": 12,
+    "idle_wattage": 0.3,
+    "typical_wattage": 10,
+    "duty_cycle": 0.08,
+    "typical_usage_hours": 4,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Brother HL-L2350DW",
+    "category": "printer",
+    "rated_wattage": 480,
+    "idle_wattage": 5.5,
+    "typical_wattage": 400,
+    "duty_cycle": 0.10,
+    "typical_usage_hours": 6,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Dell OptiPlex 3090",
+    "category": "computer",
+    "rated_wattage": 200,
+    "idle_wattage": 25,
+    "typical_wattage": 80,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Dell OptiPlex 5090",
+    "category": "computer",
+    "rated_wattage": 260,
+    "idle_wattage": 28,
+    "typical_wattage": 95,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Dell OptiPlex 7090",
+    "category": "computer",
+    "rated_wattage": 310,
+    "idle_wattage": 32,
+    "typical_wattage": 120,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "HP ProDesk 400 G7",
+    "category": "computer",
+    "rated_wattage": 180,
+    "idle_wattage": 22,
+    "typical_wattage": 75,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "HP ProDesk 600 G6",
+    "category": "computer",
+    "rated_wattage": 260,
+    "idle_wattage": 30,
+    "typical_wattage": 100,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Lenovo ThinkCentre M70q Gen 2",
+    "category": "computer",
+    "rated_wattage": 135,
+    "idle_wattage": 15,
+    "typical_wattage": 55,
+    "duty_cycle": 0.60,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Lenovo ThinkCentre M90q Gen 2",
+    "category": "computer",
+    "rated_wattage": 230,
+    "idle_wattage": 20,
+    "typical_wattage": 85,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Apple iMac 24-inch M1",
+    "category": "computer",
+    "rated_wattage": 143,
+    "idle_wattage": 10,
+    "typical_wattage": 60,
+    "duty_cycle": 0.60,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Acer Veriton N4670G",
+    "category": "computer",
+    "rated_wattage": 90,
+    "idle_wattage": 12,
+    "typical_wattage": 45,
+    "duty_cycle": 0.60,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "HP EliteDesk 800 G8",
+    "category": "computer",
+    "rated_wattage": 260,
+    "idle_wattage": 27,
+    "typical_wattage": 95,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Dell Precision 3640 Tower",
+    "category": "workstation",
+    "rated_wattage": 460,
+    "idle_wattage": 45,
+    "typical_wattage": 200,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "HP Z2 Tower G9 Workstation",
+    "category": "workstation",
+    "rated_wattage": 500,
+    "idle_wattage": 50,
+    "typical_wattage": 220,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Dell Latitude 5520 Laptop",
+    "category": "laptop",
+    "rated_wattage": 65,
+    "idle_wattage": 5,
+    "typical_wattage": 25,
+    "duty_cycle": 0.55,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "HP EliteBook 840 G8",
+    "category": "laptop",
+    "rated_wattage": 65,
+    "idle_wattage": 4,
+    "typical_wattage": 22,
+    "duty_cycle": 0.55,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Lenovo ThinkPad L15 Gen 2",
+    "category": "laptop",
+    "rated_wattage": 65,
+    "idle_wattage": 5,
+    "typical_wattage": 24,
+    "duty_cycle": 0.55,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Dell P2422H 24-inch Monitor",
+    "category": "monitor",
+    "rated_wattage": 46,
+    "idle_wattage": 0.3,
+    "typical_wattage": 18,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "HP E24 G4 24-inch Monitor",
+    "category": "monitor",
+    "rated_wattage": 42,
+    "idle_wattage": 0.3,
+    "typical_wattage": 16,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "LG 27UK850-W 27-inch 4K Monitor",
+    "category": "monitor",
+    "rated_wattage": 68,
+    "idle_wattage": 0.5,
+    "typical_wattage": 33,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Dell U2722D 27-inch Monitor",
+    "category": "monitor",
+    "rated_wattage": 76,
+    "idle_wattage": 0.3,
+    "typical_wattage": 28,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Epson PowerLite X49 Projector",
+    "category": "projector",
+    "rated_wattage": 310,
+    "idle_wattage": 0.5,
+    "typical_wattage": 280,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 6,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "BenQ MH733 Projector",
+    "category": "projector",
+    "rated_wattage": 330,
+    "idle_wattage": 0.5,
+    "typical_wattage": 300,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 6,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "ViewSonic PX701-4K Projector",
+    "category": "projector",
+    "rated_wattage": 340,
+    "idle_wattage": 0.5,
+    "typical_wattage": 310,
+    "duty_cycle": 0.45,
+    "typical_usage_hours": 5,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Dell PowerEdge R740 Server",
+    "category": "server",
+    "rated_wattage": 750,
+    "idle_wattage": 200,
+    "typical_wattage": 400,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Dell PowerEdge T440 Server",
+    "category": "server",
+    "rated_wattage": 495,
+    "idle_wattage": 150,
+    "typical_wattage": 300,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "HP ProLiant DL380 Gen10 Server",
+    "category": "server",
+    "rated_wattage": 800,
+    "idle_wattage": 210,
+    "typical_wattage": 450,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Lenovo ThinkSystem SR630 Server",
+    "category": "server",
+    "rated_wattage": 750,
+    "idle_wattage": 180,
+    "typical_wattage": 380,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Synology DS920+ NAS",
+    "category": "nas",
+    "rated_wattage": 40,
+    "idle_wattage": 18,
+    "typical_wattage": 30,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "QNAP TS-453D NAS",
+    "category": "nas",
+    "rated_wattage": 55,
+    "idle_wattage": 20,
+    "typical_wattage": 35,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "APC Smart-UPS 1500VA",
+    "category": "ups",
+    "rated_wattage": 1000,
+    "idle_wattage": 30,
+    "typical_wattage": 400,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "APC Smart-UPS 3000VA",
+    "category": "ups",
+    "rated_wattage": 2700,
+    "idle_wattage": 50,
+    "typical_wattage": 800,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Cisco Catalyst 2960-X Switch",
+    "category": "network_switch",
+    "rated_wattage": 370,
+    "idle_wattage": 30,
+    "typical_wattage": 120,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Cisco Catalyst 9200L Switch",
+    "category": "network_switch",
+    "rated_wattage": 600,
+    "idle_wattage": 40,
+    "typical_wattage": 180,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "TP-Link TL-SG1024 Switch",
+    "category": "network_switch",
+    "rated_wattage": 16,
+    "idle_wattage": 8,
+    "typical_wattage": 12,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Cisco ISR 4331 Router",
+    "category": "router",
+    "rated_wattage": 120,
+    "idle_wattage": 35,
+    "typical_wattage": 60,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "TP-Link Archer AX73 WiFi Router",
+    "category": "router",
+    "rated_wattage": 24,
+    "idle_wattage": 6,
+    "typical_wattage": 12,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Daikin FTKF35TV 1.0 Ton Split AC",
+    "category": "ac",
+    "rated_wattage": 1050,
+    "idle_wattage": 5,
+    "typical_wattage": 780,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Daikin FTKF50TV 1.5 Ton Split AC",
+    "category": "ac",
+    "rated_wattage": 1600,
+    "idle_wattage": 5,
+    "typical_wattage": 1200,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Voltas 1.5 Ton 5 Star Inverter Split AC",
+    "category": "ac",
+    "rated_wattage": 1540,
+    "idle_wattage": 5,
+    "typical_wattage": 1100,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Blue Star 2 Ton Inverter Split AC",
+    "category": "ac",
+    "rated_wattage": 2200,
+    "idle_wattage": 8,
+    "typical_wattage": 1650,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Lloyd 1 Ton 3 Star Window AC",
+    "category": "ac",
+    "rated_wattage": 1130,
+    "idle_wattage": 5,
+    "typical_wattage": 900,
+    "duty_cycle": 0.75,
+    "typical_usage_hours": 8,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "LG 1.5 Ton 5 Star Dual Inverter Split AC",
+    "category": "ac",
+    "rated_wattage": 1500,
+    "idle_wattage": 5,
+    "typical_wattage": 1080,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Havells Festiva 1200mm Ceiling Fan",
+    "category": "fan",
+    "rated_wattage": 72,
+    "idle_wattage": 0,
+    "typical_wattage": 50,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Crompton Aura Prime 1200mm Ceiling Fan",
+    "category": "fan",
+    "rated_wattage": 75,
+    "idle_wattage": 0,
+    "typical_wattage": 52,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Orient Electric Aeroquiet BLDC Ceiling Fan",
+    "category": "fan",
+    "rated_wattage": 32,
+    "idle_wattage": 0,
+    "typical_wattage": 26,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Atomberg Efficio BLDC Ceiling Fan",
+    "category": "fan",
+    "rated_wattage": 28,
+    "idle_wattage": 0,
+    "typical_wattage": 24,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Bajaj Maxima 400mm Wall Fan",
+    "category": "fan",
+    "rated_wattage": 55,
+    "idle_wattage": 0,
+    "typical_wattage": 40,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 8,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Havells Swing 400mm Pedestal Fan",
+    "category": "fan",
+    "rated_wattage": 55,
+    "idle_wattage": 0,
+    "typical_wattage": 42,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 8,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Philips LED Tube Light 22W",
+    "category": "lighting",
+    "rated_wattage": 22,
+    "idle_wattage": 0,
+    "typical_wattage": 22,
+    "duty_cycle": 0.90,
+    "typical_usage_hours": 10,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Philips LED Panel Light 36W",
+    "category": "lighting",
+    "rated_wattage": 36,
+    "idle_wattage": 0,
+    "typical_wattage": 36,
+    "duty_cycle": 0.90,
+    "typical_usage_hours": 10,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Syska LED Bulb 12W",
+    "category": "lighting",
+    "rated_wattage": 12,
+    "idle_wattage": 0,
+    "typical_wattage": 12,
+    "duty_cycle": 0.85,
+    "typical_usage_hours": 10,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Havells 40W Fluorescent Tube",
+    "category": "lighting",
+    "rated_wattage": 40,
+    "idle_wattage": 0,
+    "typical_wattage": 40,
+    "duty_cycle": 0.90,
+    "typical_usage_hours": 10,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Aquaguard Enhance RO Water Purifier",
+    "category": "water_purifier",
+    "rated_wattage": 60,
+    "idle_wattage": 2,
+    "typical_wattage": 45,
+    "duty_cycle": 0.15,
+    "typical_usage_hours": 4,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Kent Grand Plus RO Water Purifier",
+    "category": "water_purifier",
+    "rated_wattage": 60,
+    "idle_wattage": 2,
+    "typical_wattage": 48,
+    "duty_cycle": 0.15,
+    "typical_usage_hours": 4,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Samsung 192L Single Door Refrigerator",
+    "category": "refrigerator",
+    "rated_wattage": 90,
+    "idle_wattage": 30,
+    "typical_wattage": 55,
+    "duty_cycle": 0.40,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "LG 260L Double Door Refrigerator",
+    "category": "refrigerator",
+    "rated_wattage": 130,
+    "idle_wattage": 40,
+    "typical_wattage": 70,
+    "duty_cycle": 0.40,
+    "typical_usage_hours": 24,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Havells Instanio 3L Instant Water Heater",
+    "category": "water_heater",
+    "rated_wattage": 3000,
+    "idle_wattage": 0,
+    "typical_wattage": 3000,
+    "duty_cycle": 0.05,
+    "typical_usage_hours": 1,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Bajaj Immersion Water Heater 1500W",
+    "category": "water_heater",
+    "rated_wattage": 1500,
+    "idle_wattage": 0,
+    "typical_wattage": 1500,
+    "duty_cycle": 0.05,
+    "typical_usage_hours": 1,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Samsung 55-inch Smart TV",
+    "category": "display",
+    "rated_wattage": 125,
+    "idle_wattage": 0.5,
+    "typical_wattage": 85,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 6,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "LG 65-inch OLED Smart TV",
+    "category": "display",
+    "rated_wattage": 160,
+    "idle_wattage": 0.5,
+    "typical_wattage": 110,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 6,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "ViewSonic IFP65 Interactive Flat Panel 65-inch",
+    "category": "display",
+    "rated_wattage": 300,
+    "idle_wattage": 0.5,
+    "typical_wattage": 180,
+    "duty_cycle": 0.60,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Canon EOS DSLR Camera Charger",
+    "category": "charger",
+    "rated_wattage": 18,
+    "idle_wattage": 0.2,
+    "typical_wattage": 15,
+    "duty_cycle": 0.20,
+    "typical_usage_hours": 3,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Mobile Phone USB Charger 20W",
+    "category": "charger",
+    "rated_wattage": 20,
+    "idle_wattage": 0.1,
+    "typical_wattage": 15,
+    "duty_cycle": 0.30,
+    "typical_usage_hours": 4,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Laptop USB-C Charger 65W",
+    "category": "charger",
+    "rated_wattage": 65,
+    "idle_wattage": 0.2,
+    "typical_wattage": 40,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 6,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Microtek 1KVA Inverter UPS",
+    "category": "ups",
+    "rated_wattage": 800,
+    "idle_wattage": 20,
+    "typical_wattage": 350,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Epson EB-2250U Lecture Hall Projector",
+    "category": "projector",
+    "rated_wattage": 425,
+    "idle_wattage": 0.5,
+    "typical_wattage": 380,
+    "duty_cycle": 0.55,
+    "typical_usage_hours": 6,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Xerox VersaLink C405 MFP",
+    "category": "printer",
+    "rated_wattage": 720,
+    "idle_wattage": 4.5,
+    "typical_wattage": 600,
+    "duty_cycle": 0.12,
+    "typical_usage_hours": 8,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Zebra ZD420 Label Printer",
+    "category": "printer",
+    "rated_wattage": 100,
+    "idle_wattage": 2,
+    "typical_wattage": 75,
+    "duty_cycle": 0.10,
+    "typical_usage_hours": 4,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "HP Designjet T250 Large Format Printer",
+    "category": "printer",
+    "rated_wattage": 80,
+    "idle_wattage": 5,
+    "typical_wattage": 55,
+    "duty_cycle": 0.15,
+    "typical_usage_hours": 4,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Raspberry Pi 4 Model B",
+    "category": "sbc",
+    "rated_wattage": 15,
+    "idle_wattage": 3,
+    "typical_wattage": 6,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "NVIDIA Jetson Nano Developer Kit",
+    "category": "sbc",
+    "rated_wattage": 20,
+    "idle_wattage": 5,
+    "typical_wattage": 10,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Desktop Gaming PC (Mid-Range)",
+    "category": "computer",
+    "rated_wattage": 550,
+    "idle_wattage": 60,
+    "typical_wattage": 300,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 6,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Lab Desktop Computer",
+    "category": "computer",
+    "rated_wattage": 250,
+    "idle_wattage": 30,
+    "typical_wattage": 100,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Lab Thin Client",
+    "category": "computer",
+    "rated_wattage": 50,
+    "idle_wattage": 8,
+    "typical_wattage": 20,
+    "duty_cycle": 0.65,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Generic 22-inch LED Monitor",
+    "category": "monitor",
+    "rated_wattage": 35,
+    "idle_wattage": 0.3,
+    "typical_wattage": 15,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic 24-inch LED Monitor",
+    "category": "monitor",
+    "rated_wattage": 45,
+    "idle_wattage": 0.3,
+    "typical_wattage": 18,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Ceiling Fan 75W",
+    "category": "fan",
+    "rated_wattage": 75,
+    "idle_wattage": 0,
+    "typical_wattage": 55,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic BLDC Ceiling Fan 30W",
+    "category": "fan",
+    "rated_wattage": 30,
+    "idle_wattage": 0,
+    "typical_wattage": 25,
+    "duty_cycle": 0.80,
+    "typical_usage_hours": 9,
+    "energy_star_rated": true
+  },
+  {
+    "device_name": "Generic 1 Ton Split AC",
+    "category": "ac",
+    "rated_wattage": 1100,
+    "idle_wattage": 5,
+    "typical_wattage": 800,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 8,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic 1.5 Ton Split AC",
+    "category": "ac",
+    "rated_wattage": 1600,
+    "idle_wattage": 5,
+    "typical_wattage": 1200,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 8,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic 2 Ton Split AC",
+    "category": "ac",
+    "rated_wattage": 2200,
+    "idle_wattage": 8,
+    "typical_wattage": 1650,
+    "duty_cycle": 0.70,
+    "typical_usage_hours": 8,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Laser Printer",
+    "category": "printer",
+    "rated_wattage": 600,
+    "idle_wattage": 4,
+    "typical_wattage": 500,
+    "duty_cycle": 0.12,
+    "typical_usage_hours": 8,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Inkjet Printer",
+    "category": "printer",
+    "rated_wattage": 30,
+    "idle_wattage": 1,
+    "typical_wattage": 20,
+    "duty_cycle": 0.08,
+    "typical_usage_hours": 4,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic LCD Projector",
+    "category": "projector",
+    "rated_wattage": 320,
+    "idle_wattage": 0.5,
+    "typical_wattage": 280,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 6,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Document Scanner",
+    "category": "scanner",
+    "rated_wattage": 25,
+    "idle_wattage": 2,
+    "typical_wattage": 18,
+    "duty_cycle": 0.10,
+    "typical_usage_hours": 3,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Paper Shredder",
+    "category": "shredder",
+    "rated_wattage": 250,
+    "idle_wattage": 0,
+    "typical_wattage": 200,
+    "duty_cycle": 0.05,
+    "typical_usage_hours": 1,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Lab Exhaust Fan",
+    "category": "fan",
+    "rated_wattage": 40,
+    "idle_wattage": 0,
+    "typical_wattage": 35,
+    "duty_cycle": 0.90,
+    "typical_usage_hours": 9,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Biometric Attendance Machine",
+    "category": "biometric",
+    "rated_wattage": 12,
+    "idle_wattage": 5,
+    "typical_wattage": 8,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic CCTV Camera (PoE)",
+    "category": "camera",
+    "rated_wattage": 15,
+    "idle_wattage": 8,
+    "typical_wattage": 12,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic CCTV DVR/NVR",
+    "category": "camera",
+    "rated_wattage": 60,
+    "idle_wattage": 25,
+    "typical_wattage": 40,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Access Point (Wi-Fi 6)",
+    "category": "router",
+    "rated_wattage": 25,
+    "idle_wattage": 8,
+    "typical_wattage": 15,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Havells Electric Kettle 1.5L",
+    "category": "kettle",
+    "rated_wattage": 1500,
+    "idle_wattage": 0,
+    "typical_wattage": 1500,
+    "duty_cycle": 0.03,
+    "typical_usage_hours": 0.5,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Microwave Oven 20L",
+    "category": "microwave",
+    "rated_wattage": 1200,
+    "idle_wattage": 1,
+    "typical_wattage": 900,
+    "duty_cycle": 0.05,
+    "typical_usage_hours": 1,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Voltas 20L Water Cooler/Dispenser",
+    "category": "water_cooler",
+    "rated_wattage": 150,
+    "idle_wattage": 40,
+    "typical_wattage": 80,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 12,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic CNC Machine (Lab Scale)",
+    "category": "machine",
+    "rated_wattage": 2200,
+    "idle_wattage": 50,
+    "typical_wattage": 1500,
+    "duty_cycle": 0.40,
+    "typical_usage_hours": 6,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic 3D Printer (FDM)",
+    "category": "machine",
+    "rated_wattage": 350,
+    "idle_wattage": 15,
+    "typical_wattage": 200,
+    "duty_cycle": 0.50,
+    "typical_usage_hours": 8,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Lab Oscilloscope",
+    "category": "lab_equipment",
+    "rated_wattage": 50,
+    "idle_wattage": 10,
+    "typical_wattage": 35,
+    "duty_cycle": 0.40,
+    "typical_usage_hours": 4,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Lab Power Supply Unit",
+    "category": "lab_equipment",
+    "rated_wattage": 300,
+    "idle_wattage": 5,
+    "typical_wattage": 150,
+    "duty_cycle": 0.40,
+    "typical_usage_hours": 4,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Soldering Station",
+    "category": "lab_equipment",
+    "rated_wattage": 70,
+    "idle_wattage": 5,
+    "typical_wattage": 50,
+    "duty_cycle": 0.30,
+    "typical_usage_hours": 3,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic PA System / Speaker",
+    "category": "audio",
+    "rated_wattage": 200,
+    "idle_wattage": 5,
+    "typical_wattage": 80,
+    "duty_cycle": 0.40,
+    "typical_usage_hours": 6,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Wi-Fi Range Extender",
+    "category": "router",
+    "rated_wattage": 12,
+    "idle_wattage": 4,
+    "typical_wattage": 8,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Smartboard / Interactive Whiteboard",
+    "category": "display",
+    "rated_wattage": 280,
+    "idle_wattage": 1,
+    "typical_wattage": 160,
+    "duty_cycle": 0.55,
+    "typical_usage_hours": 7,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Coffee Machine",
+    "category": "appliance",
+    "rated_wattage": 1000,
+    "idle_wattage": 2,
+    "typical_wattage": 800,
+    "duty_cycle": 0.05,
+    "typical_usage_hours": 1,
+    "energy_star_rated": false
+  },
+  {
+    "device_name": "Generic Network Attached Storage 2-Bay",
+    "category": "nas",
+    "rated_wattage": 30,
+    "idle_wattage": 12,
+    "typical_wattage": 20,
+    "duty_cycle": 1.0,
+    "typical_usage_hours": 24,
+    "energy_star_rated": false
+  }
+]
