@@ -25,7 +25,8 @@ RUN python -m venv /build/venv && \
     /build/venv/bin/pip install --no-cache-dir --upgrade pip && \
     /build/venv/bin/pip install --no-cache-dir \
     torch --index-url https://download.pytorch.org/whl/cpu && \
-    /build/venv/bin/pip install --no-cache-dir -r requirements.txt
+    /build/venv/bin/pip install --no-cache-dir -r requirements.txt && \
+    rm -rf /root/.cache/pip
 
 
 # ── Stage 2: Runtime ──────────────────────────────────────────

@@ -30,7 +30,7 @@ pyod==2.0.4
 # torchvision==0.20.1
 
 # --- Explanation Generator ---
-shap==0.46.0
+# shap==0.46.0  # Commented out to save space; template engine handles explanations gracefully
 
 # --- Forecasting ---
 prophet==1.1.6
