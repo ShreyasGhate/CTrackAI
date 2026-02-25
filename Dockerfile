@@ -24,7 +24,6 @@ COPY requirements.txt .
 RUN python -m venv /build/venv && \
     /build/venv/bin/pip install --no-cache-dir --upgrade pip && \
     /build/venv/bin/pip install --no-cache-dir \
-    /build/venv/bin/pip install --no-cache-dir \
     --extra-index-url https://download.pytorch.org/whl/cpu -r requirements.txt && \
     rm -rf /root/.cache/pip && \
     find /build/venv -type d -name "nvidia" -exec rm -rf {} + && \
