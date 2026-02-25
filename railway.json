@@ -1,0 +1,24 @@
+{
+  "build": {
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "./Dockerfile",
+    "watchPatterns": [
+      "requirements.txt",
+      "main.py",
+      "api/**",
+      "pipeline/**",
+      "models/**",
+      "config/**",
+      "ingestion/**",
+      "rag/**",
+      "Dockerfile"
+    ]
+  },
+  "deploy": {
+    "healthcheckPath": "/health",
+    "healthcheckTimeout": 300,
+    "startupTimeout": 300,
+    "restartPolicyType": "always",
+    "restartPolicyMaxRetries": 10
+  }
+}
