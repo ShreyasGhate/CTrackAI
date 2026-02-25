@@ -24,10 +24,12 @@ COPY requirements.txt .
 RUN python -m venv /build/venv && \
     /build/venv/bin/pip install --no-cache-dir --upgrade pip && \
     /build/venv/bin/pip install --no-cache-dir \
-    torch --index-url https://download.pytorch.org/whl/cpu && \
-    /build/venv/bin/pip install --no-cache-dir -r requirements.txt && \
-    rm -rf /root/.cache/pip
-
+    /build/venv/bin/pip install --no-cache-dir \
+    --extra-index-url https://download.pytorch.org/whl/cpu -r requirements.txt && \
+    rm -rf /root/.cache/pip && \
+    find /build/venv -type d -name "nvidia" -exec rm -rf {} + && \
+    find /build/venv -type d -name "tests" -exec rm -rf {} + && \
+    find /build/venv -name "*.pth" -type f -delete
 
 # ── Stage 2: Runtime ──────────────────────────────────────────
 FROM python:3.11-slim AS runtime
